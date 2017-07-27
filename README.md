@@ -10,3 +10,6 @@ Brute Forcing features:
 - Scramble User list : Avoids patterns in authentication by changing the username order during each iteration. 
 
 Tool has been lightly tested. Please let me know if you encounter issues. 
+
+Dependencies:
+pip3 install requests_ntlm
